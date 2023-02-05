@@ -1,2 +1,2 @@
-This is a connect four game create using HTML, Tailwind CSS, and JavaScript.
+This is a connect four game created using HTML, Tailwind CSS, and JavaScript.
 
